@@ -1,0 +1,18 @@
+This mapping 'snapshot_20161224' was designed for MC 1.11! Use at your own peril.This mapping 'snapshot_20161224' was designed for MC 1.11! Use at your own peril.
+
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'K:\Workspace\RandomXYZ\build.gradle' line: 40
+
+* What went wrong:
+A problem occurred evaluating root project 'RandomXYZ'.
+> Could not set unknown property 'refMap' for source set 'main' of type org.gradle.api.internal.tasks.DefaultSourceSet.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+CONFIGURE FAILED
+
+Total time: 0.375 secs
